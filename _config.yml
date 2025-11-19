@@ -1,4 +1,4 @@
-name: 'My Coolest Website'
+name: 'My Website'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://dcernst.github.io'
@@ -15,7 +15,7 @@ permalink: pretty
 relative_permalinks: false
 
 # About/contact
-author: Dana C. Ernst
+author: Akwasi Oppong
 
 # GitHub
 github:
